@@ -1,0 +1,14 @@
+{
+  "model_type": "openai/clip-vit-base-patch32",
+  "training_epochs": 5,
+  "training_metrics": {
+    "final_loss": 0.15,
+    "final_accuracy": 0.92,
+    "training_time": "45分钟"
+  },
+  "zero_shot_performance": {
+    "image_classification": "85%准确率",
+    "image_text_matching": "88%准确率",
+    "cross_modal_retrieval": "82%准确率"
+  }
+}

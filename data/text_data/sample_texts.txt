@@ -1,0 +1,25 @@
+﻿# 第7周作业：NLP与多模态学习示例数据
+
+## 中文文本数据
+人工智能是计算机科学的一个分支，致力于创建能够执行通常需要人类智能的任务的系统。
+机器学习是人工智能的一个子领域，它使计算机能够在没有明确编程的情况下学习和改进。
+深度学习使用多层神经网络来模拟人脑的学习过程，在图像识别、自然语言处理等领域取得了突破性进展。
+自然语言处理专注于计算机理解、解释和生成人类语言的能力。
+计算机视觉使计算机能够从数字图像或视频中获得高层次的理解。
+神经网络模拟人脑神经元之间的连接，通过训练来识别模式。
+大数据分析帮助企业从海量数据中提取有价值的洞察，支持决策制定。
+云计算提供了按需访问计算资源的能力，降低了IT基础设施成本。
+区块链技术通过去中心化的方式确保数据的安全性和不可篡改性。
+物联网连接各种设备，实现智能化的数据收集和自动化控制。
+
+## 英文文本数据
+Artificial Intelligence (AI) is a branch of computer science that aims to create systems capable of performing tasks that typically require human intelligence.
+Machine Learning enables computers to learn and improve from experience without being explicitly programmed.
+Deep Learning uses neural networks with multiple layers to model complex patterns in data.
+Natural Language Processing focuses on enabling computers to understand, interpret, and generate human language.
+Computer Vision enables machines to interpret and understand visual information from the world.
+Neural Networks are computing systems inspired by biological neural networks in human brains.
+Data Science combines statistics, programming, and domain expertise to extract insights from data.
+Cloud Computing provides on-demand access to computing resources over the internet.
+Blockchain technology ensures data security and immutability through decentralized consensus.
+Internet of Things (IoT) connects various devices to enable smart data collection and automation.
